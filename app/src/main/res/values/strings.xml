@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CineBase</string>
+    <string name="firebase_not_configured">Film ve hesap hizmetine henüz bağlantı kurulmadı. Bağlantı tamamlandığında filmler burada görünecek.</string>
+</resources>
